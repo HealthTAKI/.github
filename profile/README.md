@@ -1,8 +1,5 @@
 ## HealthTaki
 
-<!--
-# HealthTaki
-
 Escrowed payments for medical personnel, on Stellar.
 
 A patient locks funds for a named provider at the time of booking. The provider claims them once the service is delivered. If the provider never claims, the patient takes the money back after an agreed deadline. No company account sits in the middle, and no one at HealthTaki can move a single unit of either party's money.
@@ -66,6 +63,7 @@ Contract changes need a test for every new error branch, without exception. Fron
 Testnet only. Do not point this at mainnet yet.
 **Here are some ideas to get you started:**
 
+<!--
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
